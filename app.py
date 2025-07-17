@@ -1,4 +1,4 @@
-# my_map_app_calculate_distance.py
+# app.py
 import requests
 import os
 
